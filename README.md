@@ -2,7 +2,7 @@
 
 <img alt="Components Project" src="./site.png" />
 
-Este é mais um site fictício apenas para treinamento pessoal utilizando HTML5 e CSS3
+Este é um site fictício apenas para treinamento pessoal utilizando HTML5 e CSS3
 
 ### Construído com:
 
